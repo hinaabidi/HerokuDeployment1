@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 data_for_website = {}
 # link to your database
-engine = create_engine("postgresql://baknhdqlihothi:5bf14d7a4c49aea909af6c155ca600d20d5e7309d41e2866ba863a2651d9c44f@ec2-52-2-245-64.compute-1.amazonaws.com:5432/dfn2nlkq7pqbo2", echo = False)
+engine = create_engine("postgresql://twnoqdzrlkubhw:cfaeb39a268eba169c9b9e2c306ccc7323e76bd4b96e11b9bd1bf3e861bd97d0@ec2-52-2-245-64.compute-1.amazonaws.com:5432/d9quhrtbk5csb8", echo = False)
 #engine = create_engine("postgres://localhost:5432/d9vp4cuu7ce85k", echo = False)
 
 
